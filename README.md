@@ -13,9 +13,9 @@ NekoLinux is not recommended for non-professionals. Use at your own risk. The de
 For more screenshots, please see [dots-hyprland](https://github.com/end-4/dots-hyprland). This system has not modified any configurations of dots-hyprland.
 
 ## Important Notes
-- **VMware Users:** If you are using VMware to start this system, please enable 3D acceleration.
+- Due to technical reasons, support for all virtual machines has been temporarily discontinued.
 - **Ventoy Users:** The image cannot currently be booted using Ventoy.
 
 ## Known Issues
-- Using screen lock in VMware causes the screen to turn red
-- Playing music in VMware results in intermittent sound for about 1 minute before returning to normal
+- ~~Using screen lock in VMware causes the screen to turn red~~
+- ~~Playing music in VMware results in intermittent sound for about 1 minute before returning to normal~~
